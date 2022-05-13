@@ -1,0 +1,14 @@
+#data{
+ padding-top:6%;
+ text-align: center;
+ font-size: 100px;
+ height:500px;
+ font-family:cursive;
+ 
+}
+
+body{
+ 
+ background-image: linear-gradient(orange,white,green);
+
+}
